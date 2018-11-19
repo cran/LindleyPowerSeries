@@ -1,0 +1,12 @@
+04809195ca3fa513c504f89063c56d93 *DESCRIPTION
+f9da2742695018aea119fd2ecd1239bc *NAMESPACE
+28d0d0a394edf4c917e7f016c9c0d082 *R/LindelyBinomial.R
+9c7790d164c7d3f8c4f7585d2a5df277 *R/LindelyGeometric.R
+0d2555ee90ad2db94643afa3488b50a9 *R/LindelyLogarithmic.R
+5f2b0f0fadb0011688819db0fbba8cc3 *R/LindelyNegativeBinomial.R
+5bd599081d885c7d179f3a997ea02857 *R/LindelyPoisson.R
+4812885c3d3931d3b70baff1837158d1 *man/LindleyBinomial.Rd
+a2589a1df6349e80932233465e62ebe1 *man/LindleyGeometric.Rd
+76925e42f899cab697a19e59200aa27d *man/LindleyLogarithmic.Rd
+6b129ffffc4bc3ce8fa683bfacbffc61 *man/LindleyNegativeBinomial.Rd
+4c420f6c8847892856e882abc58b4e3e *man/LindleyPoisson.Rd
