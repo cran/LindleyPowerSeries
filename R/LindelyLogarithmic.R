@@ -1,7 +1,7 @@
 #' @title LindleyLogarithmic
 #' @aliases plindleylogarithmic dlindleylogarithmic hlindleylogarithmic qlindleylogarithmic rlindleylogarithmic
 #' @description distribution function, density function, hazard rate function, quantile function, random number generation
-#' @author Saralees Nadarajah & Yuancheng Si \email{yuancheng.si@manchester.ac.uk}
+#' @author Saralees Nadarajah & Yuancheng Si \email{siyuanchengman@gmail.com}
 #' @author Peihao Wang
 #' @param x vector of positive quantiles.
 #' @param lambda positive parameter

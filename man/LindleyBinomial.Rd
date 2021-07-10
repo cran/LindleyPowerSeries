@@ -82,6 +82,8 @@ qlindleybinomial(p, lambda, theta, m)
 rlindleybinomial(n, lambda, theta, m)
 }
 \references{
+Si, Y. & Nadarajah, S., (2018). Lindley Power Series Distributions. \emph{Sankhya A}, \bold{9}, pp1-15.
+
 Ghitany, M. E., Atieh, B., Nadarajah, S., (2008). Lindley distribution and its application. \emph{Mathematics and Computers in Simulation}, \bold{78}, (4), 49-506.
 
 Jodra, P., (2010). Computer generation of random variables with Lindley or Poisson-Lindley distribution via the Lambert W function. \emph{Mathematics and Computers in Simulation}, \bold{81}, (4), 851-859.
@@ -91,7 +93,7 @@ Lindley, D. V., (1958). Fiducial distributions and Bayes' theorem. \emph{Journal
 Lindley, D. V., (1965). \emph{Introduction to Probability and Statistics from a Bayesian View-point, Part II: Inference}. Cambridge University Press, New York.
 }
 \author{
-Saralees Nadarajah & Yuancheng Si \email{yuancheng.si@manchester.ac.uk}
+Saralees Nadarajah & Yuancheng Si \email{siyuanchengman@gmail.com}
 
 Peihao Wang
 }
